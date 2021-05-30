@@ -1,0 +1,21 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "DanielDeverell"
+  },
+  "pet": [
+    {
+      "id": "WgMfwkdTmN3q165hQwtNp",
+      "name": "Rex",
+      "type": "DOG",
+      "createdAt": "4"
+    },
+    {
+      "id": "WgMfwsdTmN0q165hQwtNp",
+      "createdAt": 1622340679575,
+      "name": "Lassie",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
+}
